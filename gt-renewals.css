@@ -1,0 +1,30 @@
+/*== GT Buttons:  Blue on Gold, White on Blue, White on Dark Grey - CKEditor Styles ==*/
+
+DIV#gt_renewals P.gt-button-gold {
+  margin-top: 20px;
+}
+
+DIV#gt_renewals P.gt-button-gold A {
+  display: inline-block;
+  margin: 0 8px 10px 0;
+  padding: 6px 18px;
+  white-space: nowrap;
+  transition: background .2s ease-in-out;
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+  border: dotted 1px transparent;
+  border-radius: 3px;
+}
+
+/*-- Metalic Gold Buttons: Black Text on Metalic Gold Background --*/
+
+DIV#gt_renewals P.gt-button-gold A {
+  font-weight: 500;
+  background-color: #b3a369;
+  color: #000000 !important;
+}
+
+DIV#gt_renewals P.gt-button-gold A:focus,
+DIV#gt_renewals P.gt-button-gold A:hover {
+  background-color: #d2c79f;;
+  border: dotted 1px black;
+}
