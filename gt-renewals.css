@@ -25,6 +25,6 @@ DIV#gt_renewals P.gt-button-gold A {
 
 DIV#gt_renewals P.gt-button-gold A:focus,
 DIV#gt_renewals P.gt-button-gold A:hover {
-  background-color: #d2c79f;;
+  background-color: #d2c79f;
   border: dotted 1px black;
 }
